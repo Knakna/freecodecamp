@@ -36,3 +36,18 @@ c = c + " String!";
 var studlyCapVar;
 var properCamelCase;
 var titleCaseOver;
+
+
+// Variable declarations
+var studlyCapVar;
+var properCamelCase;
+var titleCaseOver;
+
+// Variable assignments
+studlyCapVar = 10;
+properCamelCase = "A String";
+titleCaseOver = 9000;
+
+
+let catName = "Oliver";
+let catSound = "Meow!";
