@@ -84,3 +84,11 @@ myVar1--;
 
 const myDecimal = 5.7;
 
+
+const products = 2.0 * 2.5;
+
+
+const quotients = 4.4 / 2.0; // Change this line
+
+
+const remainder = 11 % 3;
