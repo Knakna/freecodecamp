@@ -82,13 +82,5 @@ let myVar1 = 11;
 myVar1--;
 
 
-const FCC = "freeCodeCamp"; // Change this line
-let fact = "is cool!"; // Change this line
-fact = "is awesome!";
-console.log(FCC, fact); // Change this line
+const myDecimal = 5.7;
 
-
-const sum = 10 + 10;
-
-
-const difference = 45 - 33;
